@@ -1,0 +1,2 @@
+Napomena za TennisSpssFinal:
+U stream-u fajl je ubacen pod putanjom C:\Users\Maja\Desktop\maja\substracted.csv, tako da treba promeniti putanju u maja\substracted.csv i eventualno ucitati ponovo vrednosti zbog toga.

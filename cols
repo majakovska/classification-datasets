@@ -1,0 +1,32 @@
+1. winner_rank
+1. loser_rank
+
+2. winner_rank_points
+2. loser_rank_points
+
+3. winner_age
+3. loser_age
+
+4. w_ace
+4. l_ace
+
+5. w_df
+5. l_df
+
+6. w_bpFaced
+6. l_bpFaced
+
+7. w_SvGms
+7. l_SvGms
+
+8. w_1stServe%
+8. l_1stServe%
+
+9. w_1stServePWon%
+9. l_1stServePWon%
+
+10. w_2ndServePWon%
+10. l_2ndServePWon%_
+
+11. w_BreakPWon%
+11. l_BreakPWon%
